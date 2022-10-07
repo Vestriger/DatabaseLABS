@@ -115,7 +115,7 @@
 | Новое_состояние |VARCHAR(500)        | Новое состояние объекта
 
 # Схема базы данных
-![image](https://i.ibb.co/DR0YQ9W/GI4Bxbg.jpg)
+![image](https://i.ibb.co/HK3C8Ft/Screenshot-29.png)
 
 
 
